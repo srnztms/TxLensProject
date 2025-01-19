@@ -1,4 +1,4 @@
-# Companies in AR and Healthcare
+# Companies in the AR Healthcare space
 
 ## AR Hardware Companies
 - **Magic Leap**: [Website](https://www.magicleap.com)  
